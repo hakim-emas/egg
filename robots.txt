@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hakim-emas.github.io/egg/Dragon-Hatch-2:-Petualangan-Baru-Menetaskan-Naga-Legendaris!-Hakim4d.html/sitemap.xml
